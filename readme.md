@@ -1,1 +1,1 @@
-### plz run npm init -y to get the node_modules
+### plz run npm install to get the node_modules
