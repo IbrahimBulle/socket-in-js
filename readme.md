@@ -1,1 +1,1 @@
-### plz run git init -y to get the node_modules
+### plz run npm init -y to get the node_modules
